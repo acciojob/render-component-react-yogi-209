@@ -1,9 +1,9 @@
 import React from "react";
-function APP(){
+function App(){
     return (
         <div >
-            <p>"I am learning React. My life is getting better."</p>
+            <p>I am learning React. My life is getting better.</p>
         </div>
     );
 }
-export default APP;
+export default App;
